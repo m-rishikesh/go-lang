@@ -1,11 +1,13 @@
 package main
 
 import (
+	"fmt"
 	"net/http"
 )
 
-func webserver() {
+func Webserver() {
 	http.HandleFunc("/", handler1)
+	fmt.Println("running server at 8080....")
 	http.ListenAndServe(":8080", nil)
 }
 
