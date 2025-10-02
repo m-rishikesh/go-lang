@@ -1,2 +1,2 @@
-github.com/m-rishikesh/go-lang v0.0.0-20251002043135-60df99dd636f h1:RQgtcolVaBATnQHUZt5P1OfNywbUD3lP/aIvd2tOBME=
-github.com/m-rishikesh/go-lang v0.0.0-20251002043135-60df99dd636f/go.mod h1:Qax6fsvaQoj8xS3ayGOmWd2J+fNK/IpufY4EW6WGj/c=
+github.com/m-rishikesh/go-lang/mymodule v0.0.0-20251002045229-0c0da5a43951 h1:lC9zOQoWrCTHT2XhdTODwFS1qAaR7LsehCyRb+EPty4=
+github.com/m-rishikesh/go-lang/mymodule v0.0.0-20251002045229-0c0da5a43951/go.mod h1:+2yV9ACp8uumYlRi1b8YtUOMw/71o4g8ED/qD4tIfko=
