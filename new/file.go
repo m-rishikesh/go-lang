@@ -17,5 +17,6 @@ func main() {
 		fmt.Println("error while reading a file")
 	}
 	fmt.Println(string(stream))
-	webserver()
+	// webserver()
+	mymod()
 }
