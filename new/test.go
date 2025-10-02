@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/m-rishikesh/mymodule/utils"
+	"github.com/m-rishikesh/go-lang/mymodule/utils"
 )
 
 func mymod() {
