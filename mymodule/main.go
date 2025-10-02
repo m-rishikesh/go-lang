@@ -1,7 +1,7 @@
 package main
 
-import "github.com/m-rishikesh/mymodule/utils"
+import "github.com/m-rishikesh/go-lang/mymodule/utils"
 
 func main() {
-	utils.SayHello("Rishikesh")
+	utils.SayHello("Raj")
 }
